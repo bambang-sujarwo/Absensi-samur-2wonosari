@@ -1,2 +1,2 @@
 # Absensi-samur-2wonosari
-Absensi penyambut murid adnn02 wonosari
+Absensi penyambut murid sdn02 wonosari
